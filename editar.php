@@ -7,8 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="index.css">
-  <link rel="stylesheet" href="admin.css">
-  <link rel="stylesheet" href="form.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" href="img/icone-serenatto.png" type="image/x-icon">
