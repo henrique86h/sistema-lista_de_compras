@@ -1,0 +1,31 @@
+
+
+h2{
+    font-size: 24px;
+}
+
+
+.container-lista-produtos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto 0;
+}
+
+.container-lista{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid #EBC181 0.5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 3px 0;
+}
+
+.container-lista h3{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
